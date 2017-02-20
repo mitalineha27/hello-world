@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!!
+
+I am a java developer. I am learning GitHub.
